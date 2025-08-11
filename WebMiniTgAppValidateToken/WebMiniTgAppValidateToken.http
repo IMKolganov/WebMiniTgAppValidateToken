@@ -1,0 +1,6 @@
+@WebMiniTgAppValidateToken_HostAddress = http://localhost:5009
+
+GET {{WebMiniTgAppValidateToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
